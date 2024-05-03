@@ -10,29 +10,6 @@
     box-sizing: border-box;
 }
 
-/**
-*   --------------------------------
-*   TABLE OF CONTENT
-*   --------------------------------
-*   # Sidebar
-*   # Hero
-*   # Hero 2
-*   # Projects
-*   # Project details
-*   # Partner
-*   # Education & Experience
-*   # Me
-*   # Newsletter
-*   # Services
-*   # Stack
-*   # Blog
-*   # Blog Detail
-*   # Testimonial
-*   # Gallery
-*   # Contact
-*   # Footer
-*/
-
 html,body {
     scroll-behavior: smooth;
 }
